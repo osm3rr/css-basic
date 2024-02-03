@@ -1,0 +1,24 @@
+/* selector 1 */
+body {
+    color:red;
+}
+
+/* id selection */
+#title1 {
+    color: royalblue;
+}
+
+/* class selection */
+/* .text1 {
+    color: blueviolet;
+} */
+
+p {
+    color: springgreen;
+}
+
+/* class selection in a p tag */
+p.text1 {
+    color: brown;
+}
+
