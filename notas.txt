@@ -1,0 +1,21 @@
+1. Qué es CSS? Hojas de estilo en cascada.
+2. Sitio de estilos: bootswatch 
+3. Selectores para un elemento, múltiples elementos, 
+Estructura de un código css.
+Formas de escribir css en el documento html
+4. forma 1:
+ <!-- <h1 style="color:green">Blog de Josefino</h1> -->
+5. forma 2:
+Incorporar la etiqueta style, dentro del del head.
+6. option 3:
+add a new file style.css
+Selection of id with #
+7. Selection class with .class_name
+8. add color with hexadecimal and RGB code 
+9. hexadecimal code with 3 and 6 numbers.
+10. color with RGB code
+11. border options
+12. Unidades de medida 
+13. backgound
+14. Top border
+15. change properties to text color aand font 
